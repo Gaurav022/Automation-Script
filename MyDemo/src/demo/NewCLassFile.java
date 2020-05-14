@@ -1,9 +1,9 @@
 package demo;
 
-public class Demo1 {
+public class NewCLassFile {
 
 	public static void main(String[] args) {
-		System.out.print("CODE CHANGE");
+		// TODO Auto-generated method stub
 
 	}
 
